@@ -2,7 +2,9 @@
 
 ## Description
 
+Nowadays having a credit or debit card for shopping online seems like mandatory, specially during quarantine. However everybody (at least me!) feels a bit unsecured when they input their card numbers on a website. There are many risks out there, identity fraud, theft of bank details, etc. Fortunately many banks are catching up with fraud detection applying machine learning techniques.
 
+In this article/gist we are going to **demonstrate how we can use boosted decision trees to detect fraud** in credit cards records.
 
 
 ## Notebook
