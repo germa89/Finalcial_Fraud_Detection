@@ -7,7 +7,7 @@
 
 ## Notebook
 
-Link: []()
+Link: [Notebook - Financial Fraud Detection](https://github.com/germa89/Finalcial_Fraud_Detection/blob/master/Finance_Fraud_Detection_using_Gradient_Decision_Boosted.ipynb)
 
 
 
